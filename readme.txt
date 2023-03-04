@@ -2,6 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-哈哈终于成功了
-为什么啊啊啊
-？
+这次成功了吧
